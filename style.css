@@ -21,21 +21,21 @@ header {
   background-color: #ef8354;
   text-align: center;
   font-size: 25px;
-  font-style: bold;
+  font-weight: bold;
 }
 
 #selling {
   background-color: #0e7c7b;
   text-align: center;
   font-size: 25px;
-  font-style: bold;
+  font-weight: bold;
 }
 
 #live {
   background-color: #9c538b;
   text-align: center;
   font-size: 25px;
-  font-style: bold;
+  font-weight: bold;
 }
 
 a:link {
